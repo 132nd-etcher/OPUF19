@@ -47,7 +47,7 @@ All units to refer to their respective S2 for information.
 
 Preliminary intel indicates likely presence of AAA in close protection of airfield:
 
-* Zeus
+* ZU23
 * Shilka
 * Tungunska
 
