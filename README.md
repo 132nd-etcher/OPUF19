@@ -114,7 +114,7 @@ Initial suggestion VIKING.
 
 At start of air assault (codeword SPRING BREEZE), AXE flight to establish a East-West orbit in such a way that at least one member of the flight will always be facing towards the LZ, in such a position that said member of the flight will be able to react promptly should BEAR encounter resistance (adjust spacing accordingly). Should BEAR flight encounter resistance during the assault, AXE flight is to tip-in, announce tipping in and describe its target; VIKING will clear or abort the attack.
 
-At start of air assault (codeword SPRING BREEZE), PANTHER flight to establish a South-North orbit in such a way that at least one member of the flight will always be facing towards the LZ, in such a position that said member of the flight will be able to react promptly should BEAR encounter resistance. Should BEAR flight encounter resistance during the assault, AXE flight is to tip-in, announce tipping in and describe its target; VIKING will clear or abort the attack.
+At start of air assault (codeword SPRING BREEZE), PANTHER flight to establish a South-North orbit in such a way that at least one member of the flight will always be facing towards the LZ, in such a position that said member of the flight will be able to react promptly should BEAR encounter resistance. Should BEAR flight encounter resistance during the assault, PANTHER flight is to tip-in, announce tipping in and describe its target; VIKING will clear or abort the attack.
 
 COBRA flight will be under direct control of BEAR during the ingress phase (from codeword SPRING BREEZE to codeword MORNING DEW) and will assume WEAPONS FREE posture.
 
