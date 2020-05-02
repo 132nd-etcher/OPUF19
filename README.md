@@ -31,9 +31,49 @@ Conduct air assault on LAR AB.
 
 ## Execution
 
+### Setup
+
+AXE flight will establish holding area Elisa, East of LAR AB, 10 to 20nm, above 5000ft AGL. All attacks to be performed from East to West, egress left turn to the East, unless otherwise stated in CAS brief.
+
+BEAR / COBRA flights to set-up holding area Selene, south of LAR AB, behind the ridge, exact position at discretion BEAR FL.
+
+![AO1](AO_overview1.png)
+
+![AO2](AO_overview2.png)
+
+![AO3](AO_overview3.png)
+
+### Air assault
+
+Initial suggestion VIKING.
+
+![AEC](execution_top.png)
+
+### Reconnaissance
+
+Satellite view of the LZ:
+
+![LZ_sat](LZ.png)
+
+Following pictures were taken this morning by MQ-9 drone.
+
+![LZ_drone](aerial_LZ.png)
+
+![AEF](aerial_east_far.png)
+
+![AEC](aerial_east_close.png)
+
+### Kneeboard GRG
+
+![GRG](knee.png)
+
+## Timeline
+
+![exec](timeline.png)
+
 ## Service support
 
-PANTHER flight, 2xF/A-18, on-call SEAD.
+PANTHER flight, 2xF/A-18, on-call SEAD, ETA AO upon receipt of AR 10 min.
 
 ## Command/signal
 
@@ -54,7 +94,8 @@ To be used during BIREF and ATTACK by all assets supporting air assault except f
 | HEAT WAVE	| abort(ing) air assault, egress(ing) area
 | SPRING BREEZE	| start(ing) air assault	
 | MORNING DEW	| boots on the ground	
-| MONSOON RAIN |	air assault ROLEX 5m (can be used multiple times)	
+| MONSOON RAIN |	air assault ROLEX 5m (can be used multiple times)
+| NIGHT DRIWWLE |	swith(ing) to alternate air assault route	
 
 ### C2
 
