@@ -25,6 +25,16 @@ All units to refer to their respective S2 for information.
 
 RFI for expected enemy SA threats sent to VIS.
 
+### UPDATE 021413Z APR 20
+
+Preliminary intel indicates likely presence of AAA in close protection of airfield:
+
+* Zeus
+* Shilka
+* Tungunska
+
+Following destruction of SA6 in the past days, it is likely the area will be protected by SA15 and/or SA6.
+
 ## Mission
 
 Conduct air assault on LAR AB.
