@@ -8,6 +8,8 @@ Reference: https://132nd-vwing.github.io/OPUF-Brief/
 
 ## CHANGES
 
+UPDATE 031630Z APR 20, DRAFT 4: add CP
+
 UPDATE 021600Z APR 20, DRAFT 3: integrate PANTHER SEAD flight and expand gameplan
 
 UPDATE 021413Z APR 20, DRAFT 2: add SAM threat from INTEL
