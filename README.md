@@ -8,6 +8,8 @@ Reference: https://132nd-vwing.github.io/OPUF-Brief/
 
 ## CHANGES
 
+UPDATE 031700Z APR 20, FINAL: integrate OVERLORD
+
 UPDATE 031630Z APR 20, DRAFT 4: add CP
 
 UPDATE 021600Z APR 20, DRAFT 3: integrate PANTHER SEAD flight and expand gameplan
@@ -152,6 +154,8 @@ Following pictures were taken this morning by MQ-9 drone.
 
 RAGE flight will be flying in direct support of air assault 60nm NE of Lar AB.
 
+AWACS OVERLORD will oversee A-G operations, frequency 235.250 (GREY 6); in flight Report net: 228.000 (ORANGE 10).
+
 ## Command/signal
 
 ### Commplan
@@ -178,13 +182,13 @@ To be used during BIREF and ATTACK by all assets supporting air assault except f
 
 TACON AO with JTAC VIKING on primary frequency at all times.
 
-BEAR flight has authority for starting/aborting air assault.
+BEAR flight has final authority for starting/aborting air assault.
 
 COBRA flight TACON will be delegated to BEAR.
 
 In case VIKING cannot be contacted BEAR has TACON AO.
 
-In case both VIKING and BEAR flight cannot be contacted all flights are to egress AO and contact DARKSTAR.
+In case both VIKING and BEAR flight cannot be contacted all flights are to contact OVERLORD 235.250 (GREY 6).
 
 ### Contact point
 
