@@ -184,6 +184,12 @@ In case VIKING cannot be contacted BEAR has TACON AO.
 
 In case both VIKING and BEAR flight cannot be contacted all flights are to egress AO and contact DARKSTAR.
 
+### Contact point
+
+BEAR flight to contact JTAC VIKING at earliest possibility (with COBRA attached and assembled).
+
+All other flights to contact JTAC VIKING NLT 40nm out of Lar AB.
+
 ## Loadouts
 
 Loadout at discretion FL.
